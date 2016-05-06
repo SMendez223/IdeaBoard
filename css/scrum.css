@@ -1,0 +1,15 @@
+.scrum {
+    background: orange;
+    display: flex;
+    margin-top: 20px;
+    padding-bottom: 100%;
+    justify-content: space-around;
+}
+
+.sep {
+    display: inline-block;
+    padding-bottom: 100%;
+    backgroud: green;
+    padding: 0 7%;
+    border-right: black 1px solid;
+}
